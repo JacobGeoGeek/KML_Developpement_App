@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>218,328277587891</value>
+        </Data>
+        <Data name="distance">
+          <value>20</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2209606625</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,604150890625</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>1</value>
+        </Data>
+        <Data name="id">
+          <value>1</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>5</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_143423.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_143321.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.60415089062499,35.220960662499991</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>159,815505981445</value>
+        </Data>
+        <Data name="distance">
+          <value>35</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2215132782609</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,574466856522</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>1</value>
+        </Data>
+        <Data name="id">
+          <value>2</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>5</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_144130.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_144115.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.57446685652177,35.221513278260879</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>265,832305908203</value>
+        </Data>
+        <Data name="distance">
+          <value>40</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2184410130435</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,5303923</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>1</value>
+        </Data>
+        <Data name="id">
+          <value>3</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>3</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_144829.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_144818.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.5303923,35.218441013043488</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>124,942855834961</value>
+        </Data>
+        <Data name="distance">
+          <value>140</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2256092333333</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,545535277778</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>1</value>
+        </Data>
+        <Data name="id">
+          <value>4</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>6</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_145550.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_145538.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.5455352777778,35.22560923333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>129,069381713867</value>
+        </Data>
+        <Data name="distance">
+          <value>0</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2245850666667</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,5463729</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>1</value>
+        </Data>
+        <Data name="id">
+          <value>5</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>2</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_150347.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_150338.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54637289999999,35.22458506666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>103,56884765625</value>
+        </Data>
+        <Data name="distance">
+          <value>0</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2240404666667</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,546222511111</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>1</value>
+        </Data>
+        <Data name="id">
+          <value>6</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>6</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_150644.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_150633.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54622251111113,35.224040466666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>48,9168357849121</value>
+        </Data>
+        <Data name="distance">
+          <value>120</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2232847230769</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,545438123077</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>7</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>3</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_150945.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_150935.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54543812307692,35.223284723076929</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>95,3297805786133</value>
+        </Data>
+        <Data name="distance">
+          <value>5</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2223852428571</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,5440908</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>1</value>
+        </Data>
+        <Data name="id">
+          <value>8</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>6</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_151652.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_151641.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54409079999998,35.222385242857136</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>216,663665771484</value>
+        </Data>
+        <Data name="distance">
+          <value>30</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2228545142857</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,542571857143</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>1</value>
+        </Data>
+        <Data name="id">
+          <value>9</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>3</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_154316.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_154309.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54257185714285,35.222854514285714</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>73,2983169555664</value>
+        </Data>
+        <Data name="distance">
+          <value>25</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2200976625</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,5424731375</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>1</value>
+        </Data>
+        <Data name="id">
+          <value>10</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>6</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_155122.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_155113.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.5424731375,35.220097662499995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>236,9326171875</value>
+        </Data>
+        <Data name="distance">
+          <value>25</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2203133375</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,54350425</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>11</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>3</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_155437.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54350425,35.220313337500002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>136,944763183594</value>
+        </Data>
+        <Data name="distance">
+          <value>25</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2234178909091</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,543469863636</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>12</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>1</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_160102.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_160055.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54346986363636,35.22341789090909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>288,549163818359</value>
+        </Data>
+        <Data name="distance">
+          <value>20</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2266619411765</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,546558970588</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>13</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>1</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_162030.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_162020.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54655897058822,35.226661941176474</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>336,640716552734</value>
+        </Data>
+        <Data name="distance">
+          <value>30</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2278016</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,54692329</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>14</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>1</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_162336.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_162326.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54692329,35.227801600000006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>57,9812088012695</value>
+        </Data>
+        <Data name="distance">
+          <value>20</value>
+        </Data>
+        <Data name="lat">
+          <value>35,2272467</value>
+        </Data>
+        <Data name="lon">
+          <value>-111,543926476471</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>15</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>1</value>
+        </Data>
+        <Data name="photo 1">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_163727.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///G:/UpworkJobs/KML_Developpement_App/kml/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_163718.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.5439264764706,35.227246700000002</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>Famille Chaar/Documents/Visual Studio 2015/Projects/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_163727.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+        <Data name="photo 2">
+          <value><![CDATA[<img src="file:///C:/Users/Famille Chaar/Documents/Visual Studio 2015/Projects/kml/kml/bin/Debug/Example/Example/NewCamera/20170226_163718.jpg" style="width:60%;height:60%; "/>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.5439264764706,35.227246700000002</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

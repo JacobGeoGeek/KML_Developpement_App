@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>218.32827758789062</value>
+        </Data>
+        <Data name="distance">
+          <value>20</value>
+        </Data>
+        <Data name="lat">
+          <value>35.22096066249999</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.604150890625</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>1</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>5</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.604150890625,35.22096066249999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>159.8155059814453</value>
+        </Data>
+        <Data name="distance">
+          <value>35</value>
+        </Data>
+        <Data name="lat">
+          <value>35.22151327826088</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.57446685652175</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>2</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>5</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.57446685652177,35.22151327826088</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>265.8323059082031</value>
+        </Data>
+        <Data name="distance">
+          <value>40</value>
+        </Data>
+        <Data name="lat">
+          <value>35.21844101304349</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.53039229999999</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>3</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.5303923,35.21844101304349</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>124.94285583496094</value>
+        </Data>
+        <Data name="distance">
+          <value>140</value>
+        </Data>
+        <Data name="lat">
+          <value>35.22560923333333</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.54553527777779</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>4</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.5455352777778,35.22560923333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>129.0693817138672</value>
+        </Data>
+        <Data name="distance">
+          <value>0</value>
+        </Data>
+        <Data name="lat">
+          <value>35.22458506666667</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.5463729</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>5</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.5463729,35.22458506666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>103.56884765625</value>
+        </Data>
+        <Data name="distance">
+          <value>0</value>
+        </Data>
+        <Data name="lat">
+          <value>35.224040466666665</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.54622251111113</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>6</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54622251111113,35.224040466666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>48.91683578491211</value>
+        </Data>
+        <Data name="distance">
+          <value>120</value>
+        </Data>
+        <Data name="lat">
+          <value>35.22328472307693</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.54543812307693</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>7</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54543812307692,35.22328472307693</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>95.32978057861328</value>
+        </Data>
+        <Data name="distance">
+          <value>5</value>
+        </Data>
+        <Data name="lat">
+          <value>35.222385242857136</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.54409079999998</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>8</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54409079999998,35.222385242857136</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>216.66366577148438</value>
+        </Data>
+        <Data name="distance">
+          <value>30</value>
+        </Data>
+        <Data name="lat">
+          <value>35.222854514285714</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.54257185714285</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>9</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54257185714285,35.222854514285714</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>73.2983169555664</value>
+        </Data>
+        <Data name="distance">
+          <value>25</value>
+        </Data>
+        <Data name="lat">
+          <value>35.220097662499995</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.5424731375</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>10</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.5424731375,35.220097662499995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>236.9326171875</value>
+        </Data>
+        <Data name="distance">
+          <value>25</value>
+        </Data>
+        <Data name="lat">
+          <value>35.2203133375</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.54350425000001</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>11</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54350425,35.2203133375</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>136.94476318359375</value>
+        </Data>
+        <Data name="distance">
+          <value>25</value>
+        </Data>
+        <Data name="lat">
+          <value>35.22341789090909</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.54346986363636</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>12</value>
+        </Data>
+        <Data name="crop_primary">
+          <value>22</value>
+        </Data>
+        <Data name="crop_secondary">
+          <value>0</value>
+        </Data>
+        <Data name="intensity">
+          <value>1</value>
+        </Data>
+        <Data name="water">
+          <value>1</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54346986363636,35.22341789090909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>288.5491638183594</value>
+        </Data>
+        <Data name="distance">
+          <value>20</value>
+        </Data>
+        <Data name="lat">
+          <value>35.226661941176474</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.54655897058822</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>13</value>
+        </Data>
+        <Data name="crop_primary">
+          <value>2</value>
+        </Data>
+        <Data name="crop_secondary">
+          <value>22</value>
+        </Data>
+        <Data name="intensity">
+          <value>2</value>
+        </Data>
+        <Data name="water">
+          <value>1</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54655897058822,35.226661941176474</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>336.6407165527344</value>
+        </Data>
+        <Data name="distance">
+          <value>30</value>
+        </Data>
+        <Data name="lat">
+          <value>35.22780160000001</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.54692329</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>14</value>
+        </Data>
+        <Data name="crop_primary">
+          <value>21</value>
+        </Data>
+        <Data name="crop_secondary">
+          <value>0</value>
+        </Data>
+        <Data name="intensity">
+          <value>4</value>
+        </Data>
+        <Data name="water">
+          <value>1</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.54692329,35.22780160000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="bearing">
+          <value>57.98120880126953</value>
+        </Data>
+        <Data name="distance">
+          <value>20</value>
+        </Data>
+        <Data name="lat">
+          <value>35.2272467</value>
+        </Data>
+        <Data name="lon">
+          <value>-111.54392647647059</value>
+        </Data>
+        <Data name="source">
+          <value>true,Android,5.0.1,875b1dc398e9a6bb,4.1.1,LGLK430,LGE</value>
+        </Data>
+        <Data name="synced">
+          <value>0</value>
+        </Data>
+        <Data name="id">
+          <value>15</value>
+        </Data>
+        <Data name="crop_primary">
+          <value>4</value>
+        </Data>
+        <Data name="crop_secondary">
+          <value>11</value>
+        </Data>
+        <Data name="intensity">
+          <value>2</value>
+        </Data>
+        <Data name="water">
+          <value>1</value>
+        </Data>
+        <Data name="land_use_type">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-111.5439264764706,35.2272467</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
